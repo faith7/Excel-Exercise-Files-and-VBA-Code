@@ -2,7 +2,7 @@ Attribute VB_Name = "Module1"
 Option Explicit
 
 Const FOLDER_PATH = "<Folder directory where your master Excel workbook is located>"
-Const TARGET_FOLDER_PATH = "Folder directory where your output files will be saved>"
+Const TARGET_FOLDER_PATH = "<Folder directory where your output files will be saved>"
 
 Dim collection_GetList As Collection
 Dim wsData As Worksheet
