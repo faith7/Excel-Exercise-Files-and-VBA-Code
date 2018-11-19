@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Option Explicit
 
 Const FOLDER_PATH = "<Folder directory where your master Excel workbook is located>"
