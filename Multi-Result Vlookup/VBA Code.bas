@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Option Explicit
 
 Public Function Vlookup2(ByVal Lookup_Value As String, ByVal Cell_Range As Range, ByVal Column_Index As Integer) As Variant
