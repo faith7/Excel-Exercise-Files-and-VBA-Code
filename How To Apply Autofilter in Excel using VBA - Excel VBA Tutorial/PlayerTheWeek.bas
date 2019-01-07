@@ -1,3 +1,4 @@
+'Youtube link: https://youtu.be/W86emH9j3pY
 Sub ApplyAutoFilter()
 Dim wsTarget As Worksheet
 Dim LastRow As Long
