@@ -14,3 +14,4 @@ Sub Get_Tab_Color()
 Debug.Print ThisWorkbook.Worksheets("Sheet1").Tab.Color
 Debug.Print ThisWorkbook.Worksheets("Sheet2").Tab.Color
 Debug.Print ThisWorkbook.Worksheets("Sheet4").Tab.Color
+End Sub
